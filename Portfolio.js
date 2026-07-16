@@ -617,7 +617,7 @@ function initLanguage() {
         { pt: "Desenvolvimento Full-Stack", en: "Full-Stack Development" },
         { pt: "Design de API", en: "API Design" },
         { pt: "Arquitetura de Software", en: "Software Architecture" },
-        { pt: "Sou acadêmico de Engenharia de Software com sólida base em desenvolvimento full-stack, especializado em Java (Spring Boot), Python, React e Swift. Na MRV&CO, foco em automação (RPA) e integração de sistemas como o SAP S/4HANA. Além do código, sou entusiasta da cultura JDM, apaixonado por carros e dedicado ao desenvolvimento pessoal através da leitura e da oratória.", en: "I am a Software Engineering student with a strong full-stack background, specializing in Java (Spring Boot), Python, React, and Swift. At MRV&CO, I focus on automation (RPA) and systems integration like SAP S/4HANA. Beyond coding, I am a JDM culture enthusiast, car lover, and dedicated to personal growth through reading and public speaking." },
+        { pt: "Estudante de Engenharia de Software e Técnico em Programação de Jogos com experiência prática em Java, Spring Boot, React, Python e SQL. Atualmente, atuo com automação (RPA) e integrações SAP S/4HANA na MRV, e como Desenvolvedor Full-Stack na Agência Experimental da PUC Minas. Sou focado em criar lógicas de negócios complexas, resolver problemas reais e construir soluções web inovadoras e robustas.", en: "Software Engineering student and Digital Game Programming Technician with practical experience in full-stack development using Java, Spring Boot, and React. In the corporate market, I work as a Data Assistant at MRV, focusing on automation (RPA), Python, and SAP S/4HANA integration. I also work as a Software Developer at the PUC Minas Experimental Agency, creating innovative web solutions." },
         { pt: "Projetos", en: "Projects" },
         { pt: "Anos de Experiência", en: "Years Experience" },
         { pt: "Recomendações", en: "Recommendations" },
@@ -716,7 +716,30 @@ function initLanguage() {
         { pt: "Feedbacks", en: "Feedbacks" },
         { pt: "© 2026 João Pedro Moura Santos. Todos os direitos reservados.", en: "© 2026 João Pedro Moura Santos. All rights reserved." },
         { pt: "Certificações", en: "Certifications" },
+// Projetos
+{ pt: "Desenvolvimento de um sistema de gerenciamento para concessionária de veículos.", en: "Management system built for a vehicle dealership." },
+{ pt: "Desenvolvimento de um sistema de gerenciamento para investimentos.", en: "Investment management system development." },
+{ pt: "Plataforma de aprendizado sobre plantas e jardinagem. Desenvolvido para um cliente real.", en: "Learning platform about plants and gardening, built for a real client." },
 
+// Sobre Mim (o about-text real do HTML é diferente do que já está no array)
+{ pt: "Desenvolvedor com forte base em lógica e resolução de problemas, técnico em Programação de Jogos e atualmente cursando Engenharia de Software na PUC Minas. Tenho facilidade para aprender novas tecnologias e possuo vivência prática tanto no mercado corporativo quanto no meio acadêmico. Atuo na automação de processos de dados na MRV e no desenvolvimento de aplicações full-stack na Agência Experimental de Software, sempre focado na qualidade do código e no trabalho em equipe.",
+  en: "A developer with a strong foundation in logic and problem-solving, technician in Game Programming, and currently pursuing a degree in Software Engineering at PUC Minas. I pick up new technologies easily and have hands-on experience in both the corporate and academic worlds. I work on data process automation at MRV and on full-stack application development at the Software Experimental Agency, always focused on code quality and teamwork." },
+
+// Cards "About"
+{ pt: "Dados & Automação", en: "Data & Automation" },
+{ pt: "Construção de lógicas de negócio e arquiteturas robustas utilizando Java, Spring Boot, Python e C/C++.", en: "Building business logic and robust architectures using Java, Spring Boot, Python, and C/C++." },
+{ pt: "Modelagem de dados (SQL Server, PostgreSQL, MySQL, GCP) e automação de processos corporativos com RPA e SAP S/4HANA.", en: "Data modeling (SQL Server, PostgreSQL, MySQL, GCP) and corporate process automation with RPA and SAP S/4HANA." },
+{ pt: "Desenvolvimento de interfaces modernas, dinâmicas e intuitivas utilizando React e JavaScript.", en: "Building modern, dynamic, and intuitive interfaces using React and JavaScript." },
+{ pt: "Metodologias Ágeis", en: "Agile Methodologies" },
+{ pt: "Trabalho colaborativo e entregas incrementais utilizando versionamento (Git/GitHub) e frameworks como SCRUM e Kanban.", en: "Collaborative work and incremental delivery using version control (Git/GitHub) and frameworks like SCRUM and Kanban." },
+
+// Certificações
+{ pt: "Lógica", en: "Logic" },
+{ pt: "Lógica de Programação (27h)", en: "Programming Logic (27h)" },
+{ pt: "Introdução ao Machine Learning", en: "Introduction to Machine Learning" },
+{ pt: "Agência Experimental de Software", en: "Software Experimental Agency" }, // opcional, é nome próprio
+
+{ pt: "AO MEU ", en: "TO MY " },
 
     ];
 
