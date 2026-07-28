@@ -610,67 +610,83 @@ function initLanguage() {
         { pt: "Enviar", en: "Submit" },
         { pt: "Idioma", en: "Language" },
         { pt: " Desenvolvedor Full-Stack", en: " Full-Stack Developer" },
-        { pt: "Desenvolvedor Full-Stack", en: "Full-Stack Developer" },
+        { pt: " Desenvolvedor Backend", en: "BackEnd Developer" },
+        { pt: " Padrões de Design", en: "Design Patterns" },
         { pt: "BEM VINDO", en: "WELCOME" },
         { pt: "AO MEU", en: "TO MY" },
+        { pt: "AO MEU ", en: "TO MY " },
         { pt: "PORTIFÓLIO", en: "PORTFOLIO" },
         { pt: "Desenvolvimento Full-Stack", en: "Full-Stack Development" },
         { pt: "Design de API", en: "API Design" },
         { pt: "Arquitetura de Software", en: "Software Architecture" },
-        { pt: "Estudante de Engenharia de Software e Técnico em Programação de Jogos com experiência prática em Java, Spring Boot, React, Python e SQL. Atualmente, atuo com automação (RPA) e integrações SAP S/4HANA na MRV, e como Desenvolvedor Full-Stack na Agência Experimental da PUC Minas. Sou focado em criar lógicas de negócios complexas, resolver problemas reais e construir soluções web inovadoras e robustas.", en: "Software Engineering student and Digital Game Programming Technician with practical experience in full-stack development using Java, Spring Boot, and React. In the corporate market, I work as a Data Assistant at MRV, focusing on automation (RPA), Python, and SAP S/4HANA integration. I also work as a Software Developer at the PUC Minas Experimental Agency, creating innovative web solutions." },
-        { pt: "Projetos", en: "Projects" },
+        
+        // --- TEXTO HERO ATUALIZADO ---
+        { pt: "Estudante de Engenharia de Software, com foco principal no desenvolvimento em Java. Possuo experiência em desenvolvimento Full-Stack (Spring Boot, React), automação de processos (RPA) e modelagem de dados (SQL). Atualmente, atuo na Agência Experimental da PUC Minas e no CRC - Centro de Recursos Computacionais, além de estar desenvolvendo um projeto dedicado a uma empresa de eventos musicais. Meu objetivo é criar lógicas de negócios complexas, resolver problemas do mundo real e construir soluções web robustas e inovadoras.", 
+          en: "Software Engineering Student and Digital Game Programming Technician, with a primary focus on Java development. I have experience in Full-Stack development (Spring Boot, React), process automation (RPA), and data modeling (SQL). Currently, I work at the PUC Minas Experimental Agency and at CRC, in addition to developing a dedicated project for a music events company. My goal is to create complex business logic, solve real-world problems, and build robust and innovative web solutions." },
+
         { pt: "Anos de Experiência", en: "Years Experience" },
         { pt: "Recomendações", en: "Recommendations" },
         { pt: "Entre em contato", en: "Contact Me" },
-        { pt: "Ver Serviços", en: "View Services" },
-        { pt: "Teste de Intrusão", en: "Network Penetration" },
-        { pt: "Avaliação avançada de segurança de rede e identificação de vulnerabilidades", en: "Advanced network security assessment and vulnerability identification" },
-        { pt: "Sistemas", en: "Systems" },
-        { pt: "Sucesso", en: "Success" },
-        { pt: "Análise de Criptografia", en: "Encryption Analysis" },
-        { pt: "Avaliação de protocolos de criptografia e implementações criptográficas", en: "Evaluating encryption protocols and cryptographic implementations" },
-        { pt: "Nível", en: "Level" },
-        { pt: "Seguro", en: "Secure" },
-        { pt: "Varredura de Vulnerabilidades", en: "Vulnerability Scanning" },
-        { pt: "Sistemas abrangentes de varredura de segurança e detecção de ameaças", en: "Comprehensive security scanning and threat detection systems" },
-        { pt: "Varreduras", en: "Scans" },
-        { pt: "Precisão", en: "Accuracy" },
-        { pt: "Resposta a Incidentes", en: "Incident Response" },
-        { pt: "Resposta rápida e mitigação de violações de segurança", en: "Rapid response and mitigation of security breaches" },
-        { pt: "Suporte", en: "Support" },
-        { pt: "Resposta", en: "Response" },
-        { pt: "Segurança de Código", en: "Code Security" },
-        { pt: "Testes de segurança de aplicações e práticas de codificação segura", en: "Application security testing and secure coding practices" },
-        { pt: "Profissional Especialista", en: "Expert Professional" },
-        { pt: "Com mais de uma década de experiência em cibersegurança, sou especialista em proteger organizações contra ameaças cibernéticas sofisticadas. Minha experiência abrange testes de invasão, avaliação de vulnerabilidades, resposta a incidentes e design de arquitetura de segurança para sistemas empresariais.", en: "With over a decade of experience in cybersecurity, I specialize in protecting organizations from sophisticated cyber threats. My expertise spans penetration testing, vulnerability assessment, incident response, and security architecture design for enterprise-level systems." },
-        { pt: "Hacking Ético", en: "Ethical Hacking" },
-        { pt: "Hacker ético certificado com experiência em testes de invasão e avaliação de vulnerabilidades.", en: "Certified ethical hacker with expertise in penetration testing and vulnerability assessment." },
-        { pt: "Segurança de Rede", en: "Network Security" },
-        { pt: "Configuração avançada de segurança de rede e gerenciamento de firewall.", en: "Advanced network security configuration and firewall management." },
-        { pt: "Arquitetura de Segurança", en: "Security Architecture" },
-        { pt: "Projetando e implementando arquiteturas de segurança robustas para sistemas corporativos.", en: "Designing and implementing robust security architectures for enterprise systems." },
-        { pt: "Monitoramento 24/7 e resposta rápida a incidentes e violações de segurança.", en: "24/7 monitoring and rapid response to security incidents and breaches." },
-        { pt: "Teste de Invasão", en: "Penetration Testing" },
-        { pt: "Identifique vulnerabilidades antes que os invasores as explorem através de testes de segurança abrangentes.", en: "Identify vulnerabilities before attackers exploit them through comprehensive security testing." },
-        { pt: "Teste de Aplicação Web", en: "Web Application Testing" },
-        { pt: "Engenharia Social", en: "Social Engineering" },
-        { pt: "Segurança Física", en: "Physical Security" },
-        { pt: "Avaliação de Vulnerabilidades", en: "Vulnerability Assessment" },
-        { pt: "Avaliação sistemática de fraquezas de segurança com análise de risco abrangente.", en: "Systematic evaluation of security weaknesses with comprehensive risk analysis." },
-        { pt: "Varredura Automatizada", en: "Automated Scanning" },
-        { pt: "Teste Manual", en: "Manual Testing" },
-        { pt: "Análise de Risco", en: "Risk Analysis" },
-        { pt: "Planos de Correção", en: "Remediation Plans" },
-        { pt: "Consultoria de Segurança", en: "Security Consulting" },
-        { pt: "Orientação estratégica de segurança para construir mecanismos de defesa robustos e arquitetura personalizada.", en: "Strategic security guidance to build robust defense mechanisms and custom architecture." },
-        { pt: "Desenvolvimento de Políticas", en: "Policy Development" },
-        { pt: "Auditorias de Conformidade", en: "Compliance Audits" },
-        { pt: "Programas de Treinamento", en: "Training Programs" },
-        { pt: "Saiba Mais", en: "Learn More" },
-        { pt: "Hacker Ético Certificado", en: "Certified Ethical Hacker" },
-        { pt: "Profissional Certificado em Segurança de Sistemas de Informação", en: "Certified Information Systems Security Professional" },
-        { pt: "Profissional Certificado em Segurança Ofensiva", en: "Offensive Security Certified Professional" },
-        { pt: "Global - Remoto Disponível", en: "Global - Remote Available" },
+        { pt: "Baixar Currículo", en: "Download Resume" },
+
+        // --- TEXTOS SOBRE MIM ATUALIZADOS ---
+        { pt: "Sou estudante de Engenharia de Software (PUC Minas) e desenvolvedor Full-stack com forte atuação no ecossistema de backend (Java, Spring Boot, Python). Tenho interesse em aprender sobre Desing Sistems, Arquitetura de Software e Desing Patterns, construindo sistemas que vão desde a automação corporativa até plataformas de impacto social.", 
+          en: "I am a Software Engineering student (PUC Minas) and Full-stack developer with a strong focus on the backend ecosystem (Java, Spring Boot, Python). I have a problem-solving mindset and apply agile methodologies (SCRUM), building systems ranging from corporate automation to social impact platforms." },
+        
+        { pt: "🚀 O que eu construo e os impactos que gero", en: "🚀 What I build and the impacts I generate" },
+        
+        { pt: "Automação de Processos e RPA (MRV):", en: "Process Automation and RPA (MRV):" },
+        { pt: "Desenvolvi scripts em Python e integrações com SAP S/4HANA.", 
+        en: " Developed Python scripts and integrations with SAP S/4HANA." },
+        { pt: "O que melhorou:", en: "What improved:" },
+        { pt: "Eliminação de gargalos operacionais, reduzindo drasticamente a perda de tempo e a taxa de erros na esteira de produção.", en: "Elimination of operational bottlenecks, drastically reducing time loss and error rates in the production pipeline." },
+        
+        { pt: "IA e Transformação Digital (AES):", en: "AI and Digital Transformation (AES):" },
+        { pt: "Atuei no desenvolvimento de uma IA para suporte técnico na MRV.", en: "Worked on developing an AI for technical support at MRV." },
+        { pt: "Aprimoramento e otimização do processo de recebimento e controle tecnológico de concreto.", en: "Enhancement and optimization of the concrete receiving and technological control process." },
+        
+        { pt: "Plataformas Educacionais (\"Plantei\"):", en: "Educational Platforms (\"Plantei\"):" },
+        { pt: "Criação de uma solução full-stack para o ambiente escolar.", en: "Creation of a full-stack solution for the school environment." },
+        { pt: "Aumento direto no interesse e no engajamento dos alunos com os estudos.", en: "Direct increase in students' interest and engagement with their studies." },
+        
+        { pt: "🤝 Como eu trabalho", en: "🤝 How I work" },
+        { pt: "Valorizo a comunicação eficaz, a colaboração em equipe e a organização do código. Gosto de aprender novos desafios tanto quando Desenhar requisitos junto a Product Owners ou estruturar novos sistemas, meu foco é sempre a qualidade da entrega e o aprendizado contínuo.", en: "I value effective communication, team collaboration, and code organization. Whether providing technical support to users, designing requirements with Product Owners, or structuring new systems, my focus is always on delivery quality and continuous learning." },
+        
+        // --- PROJETO ATUAL ---
+
+        { pt: "Em Desenvolvimento", en: "Currently Building" },
+        { pt: "Status: Coding...", en: "Status: Coding..." },
+        { pt: "Plataforma de Eventos Musicais para a empresa Boteco do Hudson", en: "Music Events Company Platform for Boteco do Hudson" },
+        { pt: "Desenvolvimento de um sistema completo dedicado à gestão e engajamento no cenário de eventos musicais. O objetivo é aplicar conceitos avançados de arquitetura backend, padrões de projeto Desenhos de Sistemas para criar uma aplicação robusta, escalável e de alta performance.", 
+            en: "Development of a complete system dedicated to management and engagement in the music events scene. The goal is to apply advanced backend architecture concepts, design patterns, and System Design to create a robust, scalable, and high-performance application." },        { pt: "> Techs & Frameworks_", en: "> Techs & Frameworks_" },
+        { pt: "Acessar Repositório Atual", en: "Access Current Repository" },
+        { pt: "Microsserviços", en: "Microservices" },
+
+
+
+
+        // --- CARDS ABOUT ---
+        { pt: "Dados & Automação", en: "Data & Automation" },
+        { pt: "Construção de lógicas de negócio e arquiteturas robustas utilizando Java, Spring Boot, Python e C/C++.", en: "Building business logic and robust architectures using Java, Spring Boot, Python, and C/C++." },
+        { pt: "Modelagem de dados (SQL Server, PostgreSQL, MySQL, GCP) e automação de processos corporativos com RPA e SAP S/4HANA.", en: "Data modeling (SQL Server, PostgreSQL, MySQL, GCP) and corporate process automation with RPA and SAP S/4HANA." },
+        { pt: "Desenvolvimento de interfaces modernas, dinâmicas e intuitivas utilizando React e JavaScript.", en: "Building modern, dynamic, and intuitive interfaces using React and JavaScript." },
+        { pt: "Metodologias Ágeis", en: "Agile Methodologies" },
+        { pt: "Trabalho colaborativo e entregas incrementais utilizando versionamento (Git/GitHub) e frameworks como SCRUM e Kanban.", en: "Collaborative work and incremental delivery using version control (Git/GitHub) and frameworks like SCRUM and Kanban." },
+
+        // --- PROJETOS E DEMAIS INFOS ---
+        { pt: "Busca personalizada de restaurantes com filtros inteligentes de culinária e preço.", en: "Personalized restaurant search with smart filters for cuisine and price." },
+        { pt: "Calculadora de impacto ambiental em rotas brasileiras, desenvolvida com IA aplicada.", en: "Environmental impact calculator for Brazilian routes, developed with applied AI." },
+        { pt: "Fundamentos de lógica de programação e estruturação de dados complexos em JSON.", en: "Fundamentals of programming logic and complex data structuring in JSON." },
+        { pt: "Desenvolvimento de um sistema de gerenciamento para concessionária de veículos.", en: "Management system built for a vehicle dealership." },
+        { pt: "Desenvolvimento de um sistema de gerenciamento para investimentos.", en: "Investment management system development." },
+        { pt: "Plataforma de aprendizado sobre plantas e jardinagem. Desenvolvido para um cliente real.", en: "Learning platform about plants and gardening, built for a real client." },
+        
+        { pt: "Certificações", en: "Certifications" },
+        { pt: "Lógica", en: "Logic" },
+        { pt: "Lógica de Programação (27h)", en: "Programming Logic (27h)" },
+        { pt: "Introdução ao Machine Learning", en: "Introduction to Machine Learning" },
+        { pt: "Agência Experimental de Software", en: "Software Experimental Agency" }, 
+
         { pt: "Nome", en: "Name" },
         { pt: "E-mail", en: "Email" },
         { pt: "Telefone", en: "Phone" },
@@ -678,7 +694,8 @@ function initLanguage() {
         { pt: "Assunto", en: "Subject" },
         { pt: "Mensagem", en: "Message" },
         { pt: "Enviar Mensagem", en: "Send Message" },
-        { pt: "© 2026 Portfolio - Exemplo.", en: "© 2026 Portfolio - Example." },
+        { pt: "© 2026 João Pedro Moura Santos. Todos os direitos reservados.", en: "© 2026 João Pedro Moura Santos. All rights reserved." },
+        
         { pt: "INICIALIZAÇÃO DO PROCESSO DE BUILD", en: "BUILD PROCESS INITIALIZATION" },
         { pt: "[INFO] Compilando módulos...", en: "[INFO] Compiling modules..." },
         { pt: "[INFO] Construindo backend Java/Spring Boot robusto: ", en: "[INFO] Building robust Java/Spring Boot backend: " },
@@ -686,68 +703,13 @@ function initLanguage() {
         { pt: "[SUCESSO] Sistema pronto. Iniciando aplicação.", en: "[SUCCESS] System ready. Launching application." },
         { pt: "ATIVO", en: "ACTIVE" },
         { pt: "ONLINE", en: "ONLINE" },
-        { pt: "Painel de Segurança", en: "SECURITY DASHBOARD" },
-        { pt: "Status do Firewall", en: "Firewall Status" },
-        { pt: "Detecção de Ameaças", en: "Threat Detection" },
-        { pt: "MONITORANDO", en: "MONITORING" },
-        { pt: "Nível de Criptografia", en: "Encryption Level" },
-        { pt: "Ver Serviços", en: "View Services" },
-        { pt: "Baixar Currículo", en: "Download Resume" },
-        { pt: "Busca personalizada de restaurantes com filtros inteligentes de culinária e preço.", en: "Personalized restaurant search with smart filters for cuisine and price." },
-        { pt: "Calculadora de impacto ambiental em rotas brasileiras, desenvolvida com IA aplicada.", en: "Environmental impact calculator for Brazilian routes, developed with applied AI." },
-        { pt: "Fundamentos de lógica de programação e estruturação de dados complexos em JSON.", en: "Fundamentals of programming logic and complex data structuring in JSON." },
-
-
-        { pt: "Estudante de Engenharia de Software", en: "Software Engineering Student" },
-        { pt: "Desenvolvedor apaixonado por transformar ideias em soluções digitais eficientes. Com base técnica sólida em Programação de Jogos Digitais e atualmente cursando Engenharia de Software na PUC Minas, foco na criação de sistemas escaláveis e interfaces intuitivas. Atualmente, dedico-me ao desenvolvimento do projeto TI4 em Belo Horizonte, unindo tecnologia e preservação histórica.", en: "Passionate developer transforming ideas into efficient digital solutions. With a solid technical background in Digital Game Programming and currently pursuing Software Engineering at PUC Minas, I focus on creating scalable systems and intuitive interfaces. I am currently dedicated to the development of the TI4 project in Belo Horizonte, uniting technology and historical preservation." },
-        { pt: "Dev Full Stack", en: "Full Stack" },
-        { pt: "Experiência com ecossistema React, Spring Boot (Java) e Python para aplicações robustas.", en: "Experience with React, Spring Boot (Java), and Python ecosystems for robust applications." },
-
-
-
-        { pt: "Mobile & Desktop", en: "Mobile & Desktop" },
-        { pt: "Desenvolvimento multiplataforma explorando tecnologias como Swift e C para alta performance.", en: "Cross-platform development exploring technologies like Swift and C for high performance." },
-        { pt: "Backend & Data", en: "Backend & Data" },
-        { pt: "Modelagem de dados com SQL e implementação de lógicas de negócio complexas.", en: "Data modeling with SQL and implementation of complex business logic." },
-
-        { pt: "Aprendizado Contínuo", en: "Continuous Learning" },
-        { pt: "Focado em arquitetura de software e expansão internacional através de programas de intercâmbio.", en: "Focused on software architecture and international expansion through exchange programs." },
-        { pt: "CONSOLE DO DESENVOLVEDOR", en: "DEVELOPER CONSOLE" },
-        { pt: "Feedbacks", en: "Feedbacks" },
-        { pt: "© 2026 João Pedro Moura Santos. Todos os direitos reservados.", en: "© 2026 João Pedro Moura Santos. All rights reserved." },
-        { pt: "Certificações", en: "Certifications" },
-// Projetos
-{ pt: "Desenvolvimento de um sistema de gerenciamento para concessionária de veículos.", en: "Management system built for a vehicle dealership." },
-{ pt: "Desenvolvimento de um sistema de gerenciamento para investimentos.", en: "Investment management system development." },
-{ pt: "Plataforma de aprendizado sobre plantas e jardinagem. Desenvolvido para um cliente real.", en: "Learning platform about plants and gardening, built for a real client." },
-
-// Sobre Mim (o about-text real do HTML é diferente do que já está no array)
-{ pt: "Desenvolvedor com forte base em lógica e resolução de problemas, técnico em Programação de Jogos e atualmente cursando Engenharia de Software na PUC Minas. Tenho facilidade para aprender novas tecnologias e possuo vivência prática tanto no mercado corporativo quanto no meio acadêmico. Atuo na automação de processos de dados na MRV e no desenvolvimento de aplicações full-stack na Agência Experimental de Software, sempre focado na qualidade do código e no trabalho em equipe.",
-  en: "A developer with a strong foundation in logic and problem-solving, technician in Game Programming, and currently pursuing a degree in Software Engineering at PUC Minas. I pick up new technologies easily and have hands-on experience in both the corporate and academic worlds. I work on data process automation at MRV and on full-stack application development at the Software Experimental Agency, always focused on code quality and teamwork." },
-
-// Cards "About"
-{ pt: "Dados & Automação", en: "Data & Automation" },
-{ pt: "Construção de lógicas de negócio e arquiteturas robustas utilizando Java, Spring Boot, Python e C/C++.", en: "Building business logic and robust architectures using Java, Spring Boot, Python, and C/C++." },
-{ pt: "Modelagem de dados (SQL Server, PostgreSQL, MySQL, GCP) e automação de processos corporativos com RPA e SAP S/4HANA.", en: "Data modeling (SQL Server, PostgreSQL, MySQL, GCP) and corporate process automation with RPA and SAP S/4HANA." },
-{ pt: "Desenvolvimento de interfaces modernas, dinâmicas e intuitivas utilizando React e JavaScript.", en: "Building modern, dynamic, and intuitive interfaces using React and JavaScript." },
-{ pt: "Metodologias Ágeis", en: "Agile Methodologies" },
-{ pt: "Trabalho colaborativo e entregas incrementais utilizando versionamento (Git/GitHub) e frameworks como SCRUM e Kanban.", en: "Collaborative work and incremental delivery using version control (Git/GitHub) and frameworks like SCRUM and Kanban." },
-
-// Certificações
-{ pt: "Lógica", en: "Logic" },
-{ pt: "Lógica de Programação (27h)", en: "Programming Logic (27h)" },
-{ pt: "Introdução ao Machine Learning", en: "Introduction to Machine Learning" },
-{ pt: "Agência Experimental de Software", en: "Software Experimental Agency" }, // opcional, é nome próprio
-
-{ pt: "AO MEU ", en: "TO MY " },
-
+        { pt: "CONSOLE DO DESENVOLVEDOR", en: "DEVELOPER CONSOLE" }
     ];
 
     let currentLang = localStorage.getItem('lang') || 'en';
 
     function translatePage(lang) {
-        const elements = document.querySelectorAll('span, p, h1, h2, h3, h4, a, label, div, button');
-        
+const elements = document.querySelectorAll('span, p, h1, h2, h3, h4, a, label, div, button, strong, em, li');        
         elements.forEach(el => {
             if (el.childNodes.length > 0) {
                 el.childNodes.forEach(node => {
